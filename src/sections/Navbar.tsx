@@ -2,7 +2,7 @@
 export default function Navbar() {
     return (
         <header className="bg-black text-white  items-center py-4">
-            <div className="flex justify-center md:justify-between px-2">
+            <div className="flex md:block justify-between px-2">
                 <h1 className="md:text-6xl font-extrabold tracking-tight text-outline-white md:text-center font-roboto text-4xl" >
                     EFFERENCE
                 </h1>
